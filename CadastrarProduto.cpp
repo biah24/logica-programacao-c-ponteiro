@@ -1,4 +1,4 @@
-//exemplo 4 - struct com função (sem retorno)
+//exemplo 4 - struct com funÃ§Ã£o (sem retorno)
 
 #include<stdio.h>
 
@@ -7,17 +7,17 @@ struct Produto {
 	
 };
 
-//função
+//funÃ§Ã£o
 void exibirProduto(struct Produto produto){
 	printf("Nome: %s", produto.nome);
 	
 }
-//função principal
+//funÃ§Ã£o principal
 int main(){
 	struct Produto p1;
 	
 	printf("Nome: ");
-	fgets(p1.nome, 50, stdin); //chamar a função
+	fgets(p1.nome, 50, stdin); //chamar a funÃ§Ã£o
 	
 	exibirProduto(p1);
 	
