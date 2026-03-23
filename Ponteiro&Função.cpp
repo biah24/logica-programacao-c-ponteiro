@@ -1,13 +1,13 @@
 #include<stdio.h>
 
-//ponteiro para funções
+//ponteiro para funÃ§Ãµes
 
-//fução para omar
+//fuÃ§Ã£o para omar
 int soma(int a, int b){
 	return a + b;
 }
 
-//função subtrair
+//funÃ§Ã£o subtrair
 
 int subtrair(int a, int b){
 	return a - b;
