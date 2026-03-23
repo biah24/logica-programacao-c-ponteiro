@@ -9,12 +9,12 @@ int main(){
 	ptr = &var;
 	
 	
-	//conteúdo de var
+	//conteÃºdo de var
 	printf("Conteude de var: %d\n", var);
 	printf("endereco de var: %p\n", &var);
 	
 	
-	//conteúde de ptr
+	//conteÃºde de ptr
 	printf("Conteude de ptr: %d\n", *ptr);
 	printf("endereco de ptr: %p\n", &ptr);
 	
