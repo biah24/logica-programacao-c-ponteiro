@@ -13,7 +13,7 @@ struct Cliente{
 	
 	char nome [100];
 	char cpf [13];
-	//endereço - pq pode ter vários endereços 
+	//endereÃ§o - pq pode ter vÃ¡rios endereÃ§os 
 	struct Endereco endereco;
 };
 
@@ -30,7 +30,7 @@ int main(){
 	printf("Cidade: ");
 	fgets(cliente.endereco.cidade, 40, stdin);
 	
-	//impressão
+	//impressÃ£o
 	
 	printf("Dados do cliente\n");
 	printf("Nome: %s", cliente.nome);
