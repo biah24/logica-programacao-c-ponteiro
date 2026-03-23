@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-//Ponteiros como par‚metros de funÁıes;
-// procedimento(void) - n„o tem retorno e funÁ„o(return);
+//Ponteiros como par√¢metros de fun√ß√µes;
+// procedimento(void) - n√£o tem retorno e fun√ß√£o(return);
 
 void trocar(int *i, int *j){
 	int temp;
