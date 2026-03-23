@@ -11,7 +11,7 @@ struct Aluno{
 };
 
 int main(){ 
-	//armazenar alunos sem criar vari·veis adicionais
+	//armazenar alunos sem criar vari√°veis adicionais
 	//vetor: 
 	
 	//chamar struct
